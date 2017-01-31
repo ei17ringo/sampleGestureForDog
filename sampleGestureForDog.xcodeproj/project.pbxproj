@@ -14,6 +14,7 @@
 		1948C1631E4006B80070BD1A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1948C1611E4006B80070BD1A /* LaunchScreen.storyboard */; };
 		1948C16E1E4006B80070BD1A /* sampleGestureForDogTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1948C16D1E4006B80070BD1A /* sampleGestureForDogTests.swift */; };
 		1948C1791E4006B80070BD1A /* sampleGestureForDogUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1948C1781E4006B80070BD1A /* sampleGestureForDogUITests.swift */; };
+		1948C1871E4007590070BD1A /* Dog2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1948C1861E4007590070BD1A /* Dog2x.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		1948C1741E4006B80070BD1A /* sampleGestureForDogUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sampleGestureForDogUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1948C1781E4006B80070BD1A /* sampleGestureForDogUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sampleGestureForDogUITests.swift; sourceTree = "<group>"; };
 		1948C17A1E4006B80070BD1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1948C1861E4007590070BD1A /* Dog2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Dog2x.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				1948C15F1E4006B80070BD1A /* Assets.xcassets */,
 				1948C1611E4006B80070BD1A /* LaunchScreen.storyboard */,
 				1948C1641E4006B80070BD1A /* Info.plist */,
+				1948C1861E4007590070BD1A /* Dog2x.jpg */,
 			);
 			path = sampleGestureForDog;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1948C1871E4007590070BD1A /* Dog2x.jpg in Resources */,
 				1948C1631E4006B80070BD1A /* LaunchScreen.storyboard in Resources */,
 				1948C1601E4006B80070BD1A /* Assets.xcassets in Resources */,
 				1948C15E1E4006B80070BD1A /* Main.storyboard in Resources */,
